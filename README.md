@@ -2,9 +2,9 @@
 
 Date: July 16, 2022
 
-# Forteenth challange of [JavaScript30](https://javascript30.com/)
+# Fourteenth challange of [JavaScript30](https://javascript30.com/)
 
-This shows difference between Refrence and copy in JavaScript. To experience on your own visit [here](https://github.com/Rohit-Saini7/13-Slide-in-on-Scroll)
+This shows difference between Refrence and copy in JavaScript. To experience on your own visit [here](https://rohit-saini7.github.io/14-JavaScript-Refrences-Vs-Copying/).
 
 ## What is JavaScript 30
 
@@ -14,4 +14,4 @@ Learn more about the course in [here](https://javascript30.com/).
 
 ## Screenshot
 
-![Screendhot](./assets/screenshot.png).
+![Screendhot](./assets/screenshot.png)
